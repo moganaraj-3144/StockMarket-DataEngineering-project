@@ -8,14 +8,14 @@ Dataset used in this project is from : https://www.kaggle.com/datasets/paultimot
 
 # Technologies Used:
 
-Python Programming Language 
-Jupyter Notebook
-Apache Kafka
+- Python Programming Language 
+- Jupyter Notebook
+- Apache Kafka
 Amazon Web Service (AWS)
-AWS S3
-Athena
-Glue Crawler
-Glue Catalog
-EC2
+- AWS S3
+- Athena
+- Glue Crawler
+- Glue Catalog
+- EC2
 
 
