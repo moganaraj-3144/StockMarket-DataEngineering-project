@@ -11,7 +11,7 @@ Dataset used in this project is from : https://www.kaggle.com/datasets/paultimot
 - Python Programming Language 
 - Jupyter Notebook
 - Apache Kafka
-  Amazon Web Service (AWS)
+### Amazon Web Service (AWS)
 - AWS S3
 - Athena
 - Glue Crawler
